@@ -45,3 +45,14 @@ python scraping_rules.py
 ```
 
 Ao rodar o mesmo, será necessário informar alguns parâmetros para que o programa realize a consulta.
+
+## Contributing
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+## License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/JedersonLuz/jusrisfai_challenge/blob/master/LICENSE) para mais detalhes.
